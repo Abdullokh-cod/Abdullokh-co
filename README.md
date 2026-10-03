@@ -80,6 +80,7 @@ DevOps & Tools
 
 </div>
 <!-- ═══════════ 📫 BOG'LANISH ═══════════ --><div align="center">
+
 📫 Men bilan bog'lanish
 <p> <a href="mailto:email@example.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://t.me/username"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> </a> <a href="https://linkedin.com/in/username"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://instagram.com/username"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </p><!-- Quote --><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" /></div>
 <!-- ═══════════ 🎬 OUTRO ═══════════ --><img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer&text=Rahmat%20tashrifingiz%20uchun!%20🙏&fontSize=28&fontColor=ffffff&animation=twinkling" width="100%"/><div align="center"> <sub>⚡ <b>"Kod — bu kelajakni yozish san'ati"</b> ⚡</sub><br/> <sub>❤️ Uzbekistan'dan muhabbat bilan yaratildi</sub> </div> ```
